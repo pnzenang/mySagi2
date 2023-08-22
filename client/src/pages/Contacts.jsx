@@ -13,29 +13,29 @@ const Contacts = () => {
         <div>
           <BsTelephone size={40} color="var(--primary-500)" />
         </div>
-        <h3>443-531-5852/ 301-512-3919 / 240-821-0366</h3>
+        <h4>443-531-5852/ 301-512-3919 / 240-821-0366</h4>
       </div>
       <div className="container">
         <div>
           <AiOutlineMail size={40} color="var(--primary-500)" />
         </div>
-        <h3>info@active-solidarity.com</h3>
+        <h4>info@active-solidarity.com</h4>
       </div>
       <div className="container">
         <div>
           <BsGlobe size={40} color="var(--primary-500)" />
         </div>
-        <h3>active-solidarity.com</h3>
+        <h4>active-solidarity.com</h4>
       </div>
       <div className="container">
         <div>
           <AiOutlineForm size={40} color="var(--primary-500)" />
         </div>
-        <h3>
+        <h4>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLScRb0Yq_lP_qYG59rq-7S3tE7rMSeyz-EzdNMcLwrGJLtJ_aw/viewform?usp=sf_link">
             SAGI Introductory Form
           </a>
-        </h3>
+        </h4>
       </div>
     </Wrapper>
   );
@@ -68,7 +68,7 @@ const Wrapper = styled.main`
     gap: 1rem 1rem;
     box-shadow: var(--light-shadow);
   }
-  .container h3 {
+  .container h4 {
     line-height: 1.2;
     font-weight: 500;
     color: #349feb;

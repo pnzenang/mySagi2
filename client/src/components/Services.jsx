@@ -14,7 +14,7 @@ const Services = () => {
             Be part of the history!
           </h3>
           <h6>
-            Among the panoply of organizations that follow you even in your
+            Amongst the panoply of organizations that follow you even in your
             bedrooms, remember that SAGI wants to be the "public option",
             created and maintained to serve the cameroonian Communities, not to
             serve ourselves, the organization that showed the way and will
